@@ -534,3 +534,7 @@ footer>.wrap>.fgrid>div>p{line-height:1.65;color:#93a8ba}
 @media (max-width:1100px){.tiles{grid-template-columns:repeat(3,1fr)}}
 @media (max-width:700px){.tiles{grid-template-columns:1fr 1fr}}
 @media (max-width:520px){.tiles{grid-template-columns:1fr}}
+
+/* who we work with: client names */
+.card .cc{margin-top:1rem;padding-top:.85rem;border-top:1px solid var(--green-soft);font-size:.95rem}
+.card .cc strong{color:var(--green);font-weight:800}
